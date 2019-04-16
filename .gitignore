@@ -1,0 +1,4 @@
+## .gitignore file for flatGLM-scaffold
+
+## ignore folder fetched through gclient
+flatGLM
